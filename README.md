@@ -11,7 +11,7 @@ modules, with cumulative shipments exceeding hundreds of millions.
 🌎Our products are exported to global markets including the United States, Europe, South Korea, Japan, Brazil, Russia, and Southeast
 Asia.
 
-- 📧 Email: manager@szdx-smart.com
+- 📧 Email: daxia-longque@szdx-smart.com
 
 - 💬 WhatsApp: +86 15798463070
 
@@ -23,14 +23,14 @@ Asia.
 
 Click the link below to access the corresponding module resource package：
 
-- [4G Module](https://github.com/daxia-longque-dev/4G-Module)：4G Module Package
-- [WiFi Module](https://github.com/daxia-longque-dev/WiFi-Module)：WiFi Module Package
-- [LoRa Module](https://github.com/daxia-longque-dev/LoRa-Module)：LoRa Module Package
-- [Bluetooth Module](https://github.com/daxia-longque-dev/Bluetooth-Module)：Bluetooth Module Package
-- [Beacon](https://github.com/daxia-longque-dev/Beacon)：Bluetooth Beacon Module Package
-- [Wireless Adapter](https://github.com/daxia-longque-dev/Wireless-Adapter)：Wireless Adapter Package
-- [GPS Module](https://github.com/daxia-longque-dev/GPS-Module)：GPS Positioning Module Package
-- [2.4G Module](https://github.com/daxia-longque-dev/2.4G-Module)：2.4G Wireless Module Package
+- [4G Module](https://github.com/daxia-longque/4G-Module)：4G Module Package
+- [WiFi Module](https://github.com/daxia-longque/WiFi-Module)：WiFi Module Package
+- [LoRa Module](https://github.com/daxia-longque/LoRa-Module)：LoRa Module Package
+- [Bluetooth Module](https://github.com/daxia-longque/Bluetooth-Module)：Bluetooth Module Package
+- [Beacon](https://github.com/daxia-longque/Beacon)：Bluetooth Beacon Module Package
+- [Wireless Adapter](https://github.com/daxia-longque/Wireless-Adapter)：Wireless Adapter Package
+- [GPS Module](https://github.com/daxia-longque/GPS-Module)：GPS Positioning Module Package
+- [2.4G Module](https://github.com/daxia-longque/2.4G-Module)：2.4G Wireless Module Package
 
 ---
 
@@ -42,7 +42,7 @@ bilibili Official Channel：[https://www.bilibili.com/video/BV1XC4y1K7Mc](https:
 ## 📥Three Ways to Get Product Resources
 We provide three official channels for you to download the latest documents, firmware, and tools.
 
-1. [GitHub (Current Repository)](https://github.com/repos?q=owner%3A%40me)
+1. [GitHub (Current Repository)]((https://github.com/orgs/daxia-longque/repositories)
 
 2. [Baidu Cloud](https://pan.baidu.com/s/1TM_bhhZxs1XYpwCInLnWmQ?pwd=DXLQ)
 
