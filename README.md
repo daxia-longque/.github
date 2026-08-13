@@ -42,7 +42,7 @@ bilibili Official Channel：[https://www.bilibili.com/video/BV1XC4y1K7Mc](https:
 ## 📥Three Ways to Get Product Resources
 We provide three official channels for you to download the latest documents, firmware, and tools.
 
-1. [GitHub (Current Repository)]((https://github.com/orgs/daxia-longque/repositories)
+1. [GitHub (Current Repository)](https://github.com/orgs/daxia-longque/repositories)
 
 2. [Baidu Cloud](https://pan.baidu.com/s/1TM_bhhZxs1XYpwCInLnWmQ?pwd=DXLQ)
 
@@ -54,11 +54,17 @@ We provide three official channels for you to download the latest documents, fir
 
 We provide comprehensive customization services for all DX-SMART wireless modules, covering software, hardware, and overall solutions to meet your unique project needs.
 
-✅ Software Customization：We can develop and customize programs for wireless modules according to your specific software requirements, including firmware optimization, function development, and protocol customization.
+✅ Software Customization：
 
-✅ Hardware Customization：We offer customized PCBA solutions tailored to your hardware needs, supporting circuit design, hardware modification, and structural optimization.
+We can develop and customize programs for wireless modules according to your specific software requirements, including firmware optimization, function development, and protocol customization.
 
-✅ Solution Customization：We provide end-to-end overall solution customization and development based on your project requirements, helping you quickly complete product deployment and launch.
+✅ Hardware Customization：
+
+We offer customized PCBA solutions tailored to your hardware needs, supporting circuit design, hardware modification, and structural optimization.
+
+✅ Solution Customization：
+
+We provide end-to-end overall solution customization and development based on your project requirements, helping you quickly complete product deployment and launch.
 
 We support OEM / ODM for Bluetooth, LoRa, WiFi, GPS, and Beacon modules. Welcome to contact us for personalized solutions.
 
