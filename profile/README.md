@@ -11,9 +11,9 @@ modules, with cumulative shipments exceeding hundreds of millions.
 🌎Our products are exported to global markets including the United States, Europe, South Korea, Japan, Brazil, Russia, and Southeast
 Asia.
 
-* 📧 Email: manager@szdx-smart.com
+* 📧 Email: hello@daxia-longque.com
 
-* 💬 WhatsApp: +86 15798463070
+* 💬 WhatsApp: +86 18306660765
 
 * 🌐 Website: [en.szdx-smart.com](https://www.szdx-smart.com/zlxz/lymk.htm)
 
