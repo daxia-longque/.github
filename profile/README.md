@@ -15,7 +15,7 @@ Asia.
 
 * 💬 WhatsApp: +86 18306660765
 
-* 🌐 Website: [en.szdx-smart.com](https://www.szdx-smart.com/zlxz/lymk.htm)
+* 🌐 Website: [cn.szdx-smart.com](https://www.szdx-smart.com/zlxz/lymk.htm)
 
 ---
 
