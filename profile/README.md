@@ -61,7 +61,7 @@ We provide three official channels for you to download the latest documents, fir
 
 ## 🛠️Customization Service
 
-We provide comprehensive customization services for all DX-SMART wireless modules, covering software, hardware, and overall solutions to meet your unique project needs.
+We provide comprehensive customization services for all daxia-longque 大夏龙雀 wireless modules, covering software, hardware, and overall solutions to meet your unique project needs.
 
 ✅ Software Customization：We can develop and customize programs for wireless modules according to your specific software requirements, including firmware optimization, function development, and protocol customization.
 
