@@ -36,27 +36,27 @@ For technical support, business inquiries, or sample requests:
 
 Click the link below to access the corresponding module resource package:
 
-[daxia-ble5-module](https://github.com/daxia-longque-dev/Bluetooth-Module)
+[daxia-ble5-module](https://github.com/daxia-longque/daxia-ble5-module)
 
-[daxia-4g-cat1-module](https://github.com/daxia-longque-dev/4G-Module)
+[daxia-4g-cat1-module](https://github.com/daxia-longque/daxia-4g-cat1-module)
 
-[daxia-lora-module](https://github.com/daxia-longque-dev/LoRa-Module)
+[daxia-lora-module](https://github.com/daxia-longque/daxia-lora-module)
 
-[daxia-lora-sdk]()
+[daxia-lora-sdk](https://github.com/daxia-longque/daxia-lora-sdk)
 
-[daxia-wifi-module](https://github.com/daxia-longque-dev/WiFi-Module)
+[daxia-wifi-module](https://github.com/daxia-longque/daxia-wifi-module)
 
-[daxia-gnss-module](https://github.com/daxia-longque-dev/GPS-Module)
+[daxia-gnss-module](https://github.com/daxia-longque/daxia-gnss-module)
 
-[daxia-2g4-module](https://github.com/daxia-longque-dev/2.4G-Module)
+[daxia-2.4g-module](https://github.com/daxia-longque/daxia-2.4g-module)
 
-[daxia-beacon](https://github.com/daxia-longque-dev/Beacon)
+[daxia-beacon](https://github.com/daxia-longque/daxia-beacon)
 
-[daxia-wireless-adapter](https://github.com/daxia-longque-dev/Wireless-Adapter)
+[daxia-wireless-adapter](https://github.com/daxia-longque/daxia-wireless-adapter)
 
 # Customization Service
 
-We provide comprehensive customization services for all daxia-longque 大夏龙雀 wireless modules, covering software, hardware, and overall solutions to meet your unique project needs.
+We provide comprehensive customization services for all 大夏龙雀(daxia-longque) wireless modules, covering software, hardware, and overall solutions to meet your unique project needs.
 
 1. Software Customization：We can develop and customize programs for wireless modules according to your specific software requirements, including firmware optimization, function development, and protocol customization.
 
