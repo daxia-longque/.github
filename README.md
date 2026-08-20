@@ -31,3 +31,38 @@ For technical support, business inquiries, or sample requests:
 ---
 
 *© 2025 Shenzhen Daxia Longque Technology Co., Ltd. All rights reserved.*
+
+# Module Repository
+
+Click the link below to access the corresponding module resource package:
+
+[daxia-ble5-module](https://github.com/daxia-longque-dev/Bluetooth-Module)
+
+[daxia-4g-cat1-module](https://github.com/daxia-longque-dev/4G-Module)
+
+[daxia-lora-module](https://github.com/daxia-longque-dev/LoRa-Module)
+
+[daxia-lora-sdk]()
+
+[daxia-wifi-module](https://github.com/daxia-longque-dev/WiFi-Module)
+
+[daxia-gnss-module](https://github.com/daxia-longque-dev/GPS-Module)
+
+[daxia-2g4-module](https://github.com/daxia-longque-dev/2.4G-Module)
+
+[daxia-beacon](https://github.com/daxia-longque-dev/Beacon)
+
+[daxia-wireless-adapter](https://github.com/daxia-longque-dev/Wireless-Adapter)
+
+# Customization Service
+
+We provide comprehensive customization services for all daxia-longque 大夏龙雀 wireless modules, covering software, hardware, and overall solutions to meet your unique project needs.
+
+1. Software Customization：We can develop and customize programs for wireless modules according to your specific software requirements, including firmware optimization, function development, and protocol customization.
+
+2. Hardware Customization：We offer customized PCBA solutions tailored to your hardware needs, supporting circuit design, hardware modification, and structural optimization.
+
+3. Solution Customization：We provide end-to-end overall solution customization and development based on your project requirements, helping you quickly complete product deployment and launch.
+
+We support OEM / ODM for Bluetooth, LoRa, WiFi, GPS, and Beacon modules. Welcome to contact us for personalized solutions.
+
